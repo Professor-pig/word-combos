@@ -1,3 +1,11 @@
 apple,orange
 blue,green
 pig,cow
+Severus Snape,Dumbledore
+Avocado,Pineapple
+Soccer,Rugby
+France,Germany
+Google,Amazon
+Hotdog, Chips
+Mask, Hat
+Isaac Newton, Stephen Hawking
