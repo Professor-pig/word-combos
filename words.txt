@@ -3,9 +3,13 @@ France,Germany
 Google,Amazon
 Hotdog, Chips
 Digger,Bulldozer
+Severus Snape,blank
 Isaac Newton, Stephen Hawking
 Mouse,Rat
 Lobster,Crab
+Printer,blank
 Break, Rest
 Da vinci, Darwin
+Dragon,blank
 Champin, Gold Medal
+Doughnut,Pie
