@@ -13,3 +13,10 @@ Da vinci, Darwin
 Dragon,blank
 Champin, Gold Medal
 Doughnut,Pie
+cat, dog
+glove, mitten
+othello, hamlet 
+steve jobs, Mark Elliot Zuckerberg
+Tennis, badminton
+Donald Trump, Joe Biden
+Water, Sea
