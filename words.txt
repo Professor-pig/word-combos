@@ -1,22 +1,30 @@
+Glove, Mitten
+Juice,Coca
+Camel,blank
+Basketball,Netball
+Light,Sun
+Chair,blank
+Monkey,Gibbon
+Mulberry,Blackberry
+Othello, Hamlet
+Ball,Dance
+Buzz Lightyear,Super Man 
+Steve Jobs, Mark Elliot Zuckerberg
+Tennis, Badminton
+Thai,Japan
+Bath tube,Sink
+Water,Sea
+Severus Snape,Dumbledore
 Soccer,Rugby
 France,Germany
 Google,Amazon
 Hotdog, Chips
 Digger,Bulldozer
-Severus Snape,blank
 Isaac Newton, Stephen Hawking
 Mouse,Rat
 Lobster,Crab
-Printer,blank
 Break, Rest
 Da vinci, Darwin
-Dragon,blank
 Champin, Gold Medal
 Doughnut,Pie
 cat, dog
-glove, mitten
-othello, hamlet 
-steve jobs, Mark Elliot Zuckerberg
-Tennis, badminton
-Donald Trump, Joe Biden
-Water, Sea
